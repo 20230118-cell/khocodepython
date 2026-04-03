@@ -1,0 +1,6 @@
+Dòng 1 Nguyễn Văn Hoàng 
+Dòng 2 Sinh Ngày 03022005
+Dòng 3 Lớp DCCNTT14.1
+Dòng 4 Sở thích
+Dòng 5
+Dòng 6  
